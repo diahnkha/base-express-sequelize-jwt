@@ -7,10 +7,10 @@ DB_PORT=5433
 localhost:3000/api/auth/signup
 
 {
-	"firstName" : "Ridwan",
-	"lastName" : "Ridwan",
-	"username" : "ridwan",
-	"email" : "ridwan@gmail.com",
+	"firstName" : "diah",
+	"lastName" : "diah",
+	"username" : "diah",
+	"email" : "diah@gmail.com",
 	"password" : "12345678"
 }
 
@@ -18,7 +18,7 @@ localhost:3000/api/auth/signin
 
 {
 
-	"username" : "ridwan",
+	"username" : "diah",
 	"password" : "12345678"
 }
 
